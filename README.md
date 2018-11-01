@@ -1,4 +1,6 @@
-# Awesome Straight To A Human List
+# Awesome Straight To A Human List 
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Know exactly what to press or say to get a human operator
 
