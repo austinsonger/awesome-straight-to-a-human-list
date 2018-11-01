@@ -87,12 +87,6 @@
 |      |  |                           |
 
 
-## Pharmacy
-
-| Organization                    | Phone Number | Directions                                              |
-|---------------------------------|--------------|---------------------------------------------------------|
-|      |  |                           |
-
 ## Shipping
 
 | Organization                    | Phone Number | Directions                                              |
